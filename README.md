@@ -2,7 +2,7 @@
 Data Nerd based in the UK.
 
 ## 🌱 Current learning
-- Studying for a Level 4 Data Analyst apprenticeship with Multiverse
+- Studying for a Level 4 Data Analyst apprenticeship
 - Python
 
 ## 🔭 Current projects

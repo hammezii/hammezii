@@ -1,4 +1,13 @@
-## Hi there 👋
+# hammezii
+Data Nerd based in the UK.
+
+## 🌱 Current learning
+- Studying for a Level 4 Data Analyst apprenticeship with Multiverse
+- Python
+
+## 🔭 Current projects
+- Data viz
+- Statistical analysis
 
 <!--
 **hammezii/hammezii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

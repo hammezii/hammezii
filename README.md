@@ -2,12 +2,12 @@
 Data Nerd based in the UK.
 
 ## 🌱 Current learning
-- Studying for a Level 4 Data Analyst apprenticeship
 - Python
 
 ## 🔭 Current projects
 - Data viz
 - Statistical analysis
+- `heat-helper` python package
 
 <!--
 **hammezii/hammezii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

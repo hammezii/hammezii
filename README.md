@@ -1,5 +1,5 @@
 # hammezii
-Data Nerd based in the UK.
+Data nerd based in the UK.
 
 ## 🌱 Current learning
 - Python

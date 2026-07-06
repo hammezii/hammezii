@@ -8,6 +8,7 @@ Data nerd based in the UK.
 - Data viz
 - Statistical analysis
 - `heat-helper` python package
+- `scribe` a privacy focused tabletop rpg ai note taker
 
 <!--
 **hammezii/hammezii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
